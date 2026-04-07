@@ -1,3 +1,6 @@
+---
+title: ""
+---
 # Privacy Policy
 
 This privacy policy applies to the Geodesic app (hereby referred to as "Application") for mobile devices that was created by CHENG WEI TUNG (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
