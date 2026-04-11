@@ -1,68 +1,63 @@
-This privacy policy applies to the Geodesic app (hereby referred to as "Application") for mobile devices that was created by CHENG WEI TUNG (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".23
+# Privacy Policy
 
-**Information Collection and Use**
+This privacy policy applies to the Geodesic app (hereby referred to as "Application") for mobile devices that was created by CHENG WEI TUNG (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-The Application collects information when you download and use it. This information may include information such as
+## 1. Information Collection and Use
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+Geodesic is designed with a **privacy-first** approach. The Application collects your device's location data to provide its core features, but **all location history, visits, and personal data are stored exclusively on your device's local storage**. If you enable iCloud synchronization, your data will be securely synced across your devices using your personal Apple iCloud account.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+The Service Provider does **not** collect, transmit, store on its own remote servers, or share your location data. The Service Provider has absolutely no access to your iCloud data; it is secured and managed entirely by Apple.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+### Background Location Usage
+To provide its intended functionality, the Application requires continuous background location access to:
+* Seamlessly record your travel trajectories while you are on the move.
+* Provide local notifications, such as alerting you when location tracking is lost, paused, or interrupted.
+* Visualize your location history, heatmaps, and statistics locally on your device.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+### Automatically Collected Information
+Since all core operations run entirely on your device, the Application does **not** automatically collect or transmit telemetry data, IP addresses, device identifiers, or app usage statistics to the Service Provider.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Application does not use Artificial Intelligence (AI) technologies to process your data.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to location. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+## 2. Third-Party Services
 
-**Third Party Access**
+While your personal location data is never shared with or sold to data brokers or marketing services, the Application utilizes built-in Apple frameworks to provide its map functionality:
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+* **Apple Maps (MapKit):** The Application uses Apple Maps to render geographical maps and perform reverse geocoding (converting GPS coordinates into readable locations such as cities or countries). By using the map features, you are also subject to Apple's privacy practices. You can review the [Apple Privacy Policy here](https://www.apple.com/legal/privacy/).
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+* **Apple iCloud (CloudKit)**: If enabled, the Application uses iCloud to sync your data across your devices. This data is stored in your private iCloud database, which the Service Provider cannot access. You are subject to Apple's privacy practices. You can review the [Apple Privacy Policy here](https://www.apple.com/legal/privacy/).
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## 3. Data Retention and Deletion Policy
 
-**Opt-Out Rights**
+Your location data is retained locally on your device for as long as you use the Application. 
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+**You have full and absolute control over your data.** You can permanently delete all your recorded location history, visits, and cache directly within the Application at any time by navigating to:
+**Settings > Data > Danger Zone > Reset App**
 
-**Data Retention Policy**
+If iCloud synchronization is enabled, deleting data from the Application will also delete it from your iCloud. You can also manually manage or delete the Application's data directly from your device's settings by navigating to Settings > [Your Name] > iCloud > Storage > Geodesic.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at geodesicapp.support@gmail.com and they will respond in a reasonable time.
+Additionally, uninstalling the Application from your device will also completely remove all associated local data and configurations.
 
-**Children**
+## 4. Children
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(geodesicapp.support@gmail.com)</span> so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+The Service Provider does not knowingly collect personally identifiable information from children. Because all data is stored locally on the device and never transmitted externally, the Service Provider does not and cannot access or store any data from children. Parents or guardians who wish to remove such data can do so simply by deleting the Application from the device or clearing the data within the Application's settings. If you have reason to believe that a child has provided personally identifiable information, please contact the Service Provider at geodesicapp.support@gmail.com so that necessary actions can be taken.
 
-**Security**
+## 5. Security
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider is highly concerned about safeguarding the confidentiality of your information. Because all sensitive location data is kept securely on your device, it is protected by iOS's built-in industry-standard security mechanisms (such as device encryption, Passcode, Face ID, or Touch ID). Additionally, data synced via iCloud is encrypted in transit and at rest on Apple's servers, according to Apple's security standards.
 
-**Changes**
+## 6. Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-04-07
+This privacy policy is effective as of **2026-04-07**.
 
-**Your Consent**
+## 7. Your Consent
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-**Contact Us**
+## 8. Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at geodesicapp.support@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at **geodesicapp.support@gmail.com**.
