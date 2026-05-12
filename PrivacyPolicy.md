@@ -42,7 +42,7 @@ Your location data is retained locally on your device for as long as you use the
 
 **Full Data Control:** You have full and absolute control over your data. You can permanently delete all your recorded location history, visits, debug logs, and cache directly within the Application at any time:
 * **To Reset All Data:** Navigate to **Settings > Data > Danger Zone > Reset App**.
-* **To Clear Debug Logs Only:** Navigate to **Settings > Others > Developer Settings > Logs** and select **Clear**.
+* **To Clear Logs/Backups:** Open **Finder App > On My iPhone > Geodesic**. There you can manage logs and backups.
 
 If iCloud synchronization is enabled, deleting data from the Application will also delete it from your iCloud. Uninstalling the Application will remove all associated local data and configurations.
 
