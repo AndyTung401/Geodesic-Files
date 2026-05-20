@@ -42,7 +42,7 @@ Your location data is retained locally on your device for as long as you use the
 * **To Reset All Data:** Navigate to **Settings > Data > Danger Zone > Reset App**.
 * **To Clear Logs/Backups:** Open **Finder App > On My iPhone > Geodesic**. There you can manage logs and backups.
 
-If iCloud synchronization is enabled, deleting data from the Application will also delete it from your iCloud. Uninstalling the Application will remove all associated local data and configurations.
+If iCloud synchronization is enabled, deleting data from the Application might also delete it from your iCloud. Uninstalling the Application will remove all associated local data and configurations.
 
 ## 4. Children
 
