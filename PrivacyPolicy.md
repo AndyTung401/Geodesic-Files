@@ -54,7 +54,7 @@ The Service Provider is highly concerned about safeguarding the confidentiality 
 
 ## 6. Changes
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. This privacy policy is effective as of **2026-05-12**.
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. This privacy policy is effective as of **2026-05-21**.
 
 ## 7. Your Consent
 
