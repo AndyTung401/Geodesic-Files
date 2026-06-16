@@ -62,4 +62,5 @@ By using the Application, you are consenting to the processing of your informati
 
 ## 8. Contact Us
 
-If you have any questions regarding privacy while using the Application, please contact the Service Provider via email at **geodesicapp.support@gmail.com**.
+If you have any questions regarding privacy while using the Application, please contact the Service Provider via email at **andytung.dev.support@gmail.com**
+**.
