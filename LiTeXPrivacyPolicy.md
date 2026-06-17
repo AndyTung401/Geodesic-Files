@@ -1,5 +1,3 @@
-# Privacy Policy
-
 **Last updated:** June 17, 2026
 
 Your privacy is important to us. This Privacy Policy explains our policy regarding the collection, use, and disclosure of information when you use our application/service.
